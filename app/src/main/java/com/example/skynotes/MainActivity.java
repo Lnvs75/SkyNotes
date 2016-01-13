@@ -111,7 +111,7 @@ implements LoaderManager.LoaderCallbacks<Cursor>
     }
 
     private void insertSampleData() {
-        insertNote("New Notes");
+        insertNote("New Note");
         restartLoader();
     }
 

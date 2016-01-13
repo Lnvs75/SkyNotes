@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="C:\SkyNotesRemake\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="C:\SkyNotesRemake\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_afa804824791d20ff5060f398a2350e5f294b135.jar" />
-    </item>
-    <item
-        jar="C:\SkyNotesRemake\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="C:\SkyNotesRemake\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.0.0_aa52c4268aa78225c4d5167fb2de95b356cfccfc.jar" />
-    </item>
-    <item
-        jar="C:\SkyNotesRemake\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="C:\SkyNotesRemake\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_1dc3b0e975ab3023e910033e3f71ef25815fbf93.jar" />
-    </item>
-    <item
-        jar="C:\SkyNotesRemake\app\build\intermediates\exploded-aar\com.github.markushi\circlebutton\1.1\jars\classes.jar"
+        jar="C:\SkyNotes\app\build\intermediates\exploded-aar\com.github.markushi\circlebutton\1.1\jars\classes.jar"
         jumboMode="false"
         revision="22.0.0"
         sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
-        <dex dex="C:\SkyNotesRemake\app\build\intermediates\pre-dexed\debug\com.github.markushi-circlebutton-1.1_67b464ea334c8c53e5f04be63822981f9bfa1586.jar" />
+        <dex dex="C:\SkyNotes\app\build\intermediates\pre-dexed\debug\com.github.markushi-circlebutton-1.1_45e47c85e12b626ea3d0b723ba82b4164b468d40.jar" />
     </item>
     <item
         jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="22.0.0"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="C:\SkyNotesRemake\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_036d4f6abf1af3a69bdd91c577da918ead884ec2.jar" />
+        <dex dex="C:\SkyNotes\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_036d4f6abf1af3a69bdd91c577da918ead884ec2.jar" />
+    </item>
+    <item
+        jar="C:\SkyNotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\SkyNotes\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_8bda162bfbb6c99c0a8456f59edb56a1b2e6574d.jar" />
+    </item>
+    <item
+        jar="C:\SkyNotes\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\SkyNotes\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_232a59813c8abf830fd7604253bdae4ceefcd1cf.jar" />
+    </item>
+    <item
+        jar="C:\SkyNotes\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\SkyNotes\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.0.0_2e54729f88db740ffef47ea591adacca41c5a268.jar" />
     </item>
 
 </items>
