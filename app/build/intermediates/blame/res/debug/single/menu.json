@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\SkyNotes\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_editor.xml",
+        "source": "C:\\SkyNotes\\app\\src\\main\\res\\menu\\menu_editor.xml"
+    },
+    {
+        "merged": "C:\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\PlainOlNotes\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\SkyNotes\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\SkyNotes\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\SkyNotesRemake\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\SkyNotesRemake\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\SkyNotesRemake\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_editor.xml",
+        "source": "C:\\SkyNotesRemake\\app\\src\\main\\res\\menu\\menu_editor.xml"
+    },
+    {
+        "merged": "C:\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_editor.xml",
+        "source": "C:\\PlainOlNotes\\app\\src\\main\\res\\menu\\menu_editor.xml"
+    }
+]
