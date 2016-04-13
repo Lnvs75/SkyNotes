@@ -8,6 +8,10 @@
         "source": "C:\\SkyNotes\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout-v11\\abc_screen_content_include.xml"
     },
     {
+        "merged": "C:\\Users\\loic\\Documents\\GitHub\\SkyNotes-ProjetFiles\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\loic\\Documents\\GitHub\\SkyNotes-ProjetFiles\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout-v11\\abc_screen_content_include.xml"
+    },
+    {
         "merged": "C:\\SkyNotesRemake\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_screen_content_include.xml",
         "source": "C:\\SkyNotesRemake\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\layout-v11\\abc_screen_content_include.xml"
     }

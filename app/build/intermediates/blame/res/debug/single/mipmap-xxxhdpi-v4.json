@@ -10,5 +10,9 @@
     {
         "merged": "C:\\SkyNotesRemake\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
         "source": "C:\\SkyNotesRemake\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\loic\\Documents\\GitHub\\SkyNotes-ProjetFiles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\loic\\Documents\\GitHub\\SkyNotes-ProjetFiles\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]

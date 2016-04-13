@@ -4,6 +4,10 @@
         "source": "C:\\SkyNotesRemake\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\loic\\Documents\\GitHub\\SkyNotes-ProjetFiles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\loic\\Documents\\GitHub\\SkyNotes-ProjetFiles\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\SkyNotes\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
         "source": "C:\\SkyNotes\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },

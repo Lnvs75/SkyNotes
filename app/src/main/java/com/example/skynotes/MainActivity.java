@@ -21,8 +21,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 
-public class MainActivity extends ActionBarActivity
-implements LoaderManager.LoaderCallbacks<Cursor>
+public class MainActivity extends ActionBarActivity implements LoaderManager.LoaderCallbacks<Cursor>
 {
     private static final int EDITOR_REQUEST_CODE = 1001;
     private CursorAdapter cursorAdapter;

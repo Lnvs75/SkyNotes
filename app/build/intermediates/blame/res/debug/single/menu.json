@@ -12,6 +12,14 @@
         "source": "C:\\SkyNotes\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
+        "merged": "C:\\Users\\loic\\Documents\\GitHub\\SkyNotes-ProjetFiles\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_editor.xml",
+        "source": "C:\\Users\\loic\\Documents\\GitHub\\SkyNotes-ProjetFiles\\app\\src\\main\\res\\menu\\menu_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\loic\\Documents\\GitHub\\SkyNotes-ProjetFiles\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\loic\\Documents\\GitHub\\SkyNotes-ProjetFiles\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
         "merged": "C:\\SkyNotesRemake\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "C:\\SkyNotesRemake\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
