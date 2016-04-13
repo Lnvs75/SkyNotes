@@ -362,9 +362,9 @@ int id action_bar_spinner 0x7f0c0001
 int id action_bar_subtitle 0x7f0c001f
 int id action_bar_title 0x7f0c001e
 int id action_context_bar 0x7f0c0032
-int id action_create_sample 0x7f0c0045
-int id action_delete 0x7f0c0044
-int id action_delete_all 0x7f0c0046
+int id action_create_sample 0x7f0c0046
+int id action_delete 0x7f0c0045
+int id action_delete_all 0x7f0c0047
 int id action_menu_divider 0x7f0c0002
 int id action_menu_presenter 0x7f0c0003
 int id action_mode_bar 0x7f0c002e
@@ -419,6 +419,7 @@ int id split_action_bar 0x7f0c0007
 int id submit_area 0x7f0c003c
 int id tabMode 0x7f0c000b
 int id title 0x7f0c0027
+int id tvDate 0x7f0c0044
 int id tvNote 0x7f0c0043
 int id tvTitle 0x7f0c003f
 int id up 0x7f0c0008

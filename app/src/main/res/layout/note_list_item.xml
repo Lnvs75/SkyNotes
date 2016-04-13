@@ -26,4 +26,14 @@
         android:textColor="@color/list_item_text"
         android:textSize="18sp" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Date"
+        android:id="@+id/tvDate"
+        android:layout_alignRight="@+id/tvNote"
+        android:layout_alignEnd="@+id/tvNote"
+        android:layout_alignBottom="@+id/tvNote" />
+
 </RelativeLayout>

@@ -1347,9 +1347,9 @@ containing a value of this type.
         public static final int action_bar_subtitle=0x7f0c001f;
         public static final int action_bar_title=0x7f0c001e;
         public static final int action_context_bar=0x7f0c0032;
-        public static final int action_create_sample=0x7f0c0045;
-        public static final int action_delete=0x7f0c0044;
-        public static final int action_delete_all=0x7f0c0046;
+        public static final int action_create_sample=0x7f0c0046;
+        public static final int action_delete=0x7f0c0045;
+        public static final int action_delete_all=0x7f0c0047;
         public static final int action_menu_divider=0x7f0c0002;
         public static final int action_menu_presenter=0x7f0c0003;
         public static final int action_mode_bar=0x7f0c002e;
@@ -1404,6 +1404,7 @@ containing a value of this type.
         public static final int submit_area=0x7f0c003c;
         public static final int tabMode=0x7f0c000b;
         public static final int title=0x7f0c0027;
+        public static final int tvDate=0x7f0c0044;
         public static final int tvNote=0x7f0c0043;
         public static final int tvTitle=0x7f0c003f;
         public static final int up=0x7f0c0008;

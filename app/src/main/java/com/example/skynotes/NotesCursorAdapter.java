@@ -23,8 +23,8 @@ public class NotesCursorAdapter extends CursorAdapter{
     @Override
     public void bindView(View view, Context context, Cursor cursor) {
 
-        String noteText = cursor.getString(
-                cursor.getColumnIndex(DBOpenHelper.NOTE_TEXT));
+        String noteText = cursor.getString(cursor.getColumnIndex(DBOpenHelper.NOTE_TEXT));
+        String dateText = cursor.getString(cursor.getColumnIndex(DBOpenHelper.NOTE_CREATED));
 
         int pos = noteText.indexOf(10);
         if (pos != -1) {
@@ -32,7 +32,9 @@ public class NotesCursorAdapter extends CursorAdapter{
         }
 
         TextView tv = (TextView) view.findViewById(R.id.tvNote);
+        TextView tvdate = (TextView) view.findViewById(R.id.tvDate);
         tv.setText(noteText);
+        tvdate.setText(dateText);
 
     }
 }
